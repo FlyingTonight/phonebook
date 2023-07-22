@@ -1,0 +1,5 @@
+Server: localhost
+login: root
+password: 1234
+database: phonebook
+table: contacts
